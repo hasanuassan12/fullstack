@@ -1,0 +1,11 @@
+# Node (Angular)
+sampleprojectui/node_modules
+sampleprojectui/dist
+
+# .NET
+SampleProject/bin/
+SampleProject/obj/
+
+# OS Files
+.DS_Store
+Thumbs.db
